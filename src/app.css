@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ActionBar {
+  background-color: #4A90E2;
+  color: white;
+}
+
+.input {
+  placeholder-color: #9CA3AF;
+  color: #1F2937;
+}
+
+.rounded-lg {
+  border-radius: 8;
+}
+
+.shadow-md {
+  box-shadow: 0 4 6 rgba(0, 0, 0, 0.1);
+}
+
+.bg-white {
+  background-color: #FFFFFF;
+}
+
+.bg-gray-100 {
+  background-color: #F3F4F6;
+}
+
+.text-blue-500 {
+  color: #3B82F6;
+}
+
+.text-green-500 {
+  color: #10B981;
+}
+
+.text-purple-500 {
+  color: #8B5CF6;
+}
+
+.text-gray-600 {
+  color: #4B5563;
+}
